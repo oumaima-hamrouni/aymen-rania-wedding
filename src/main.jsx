@@ -13,7 +13,7 @@ const weddingConfig = {
   // You can replace this with the exact Google Maps link of the venue.
   mapsUrl: 'https://maps.app.goo.gl/GfubuqWGwyLfxY4T7',
   // Replace with the real WhatsApp number. Format: country code + number, without + or spaces.
-  whatsappNumber: '0021654305835',
+  whatsappNumber: '+21654305835',
   targetDate: '2026-07-12T19:00:00+01:00',
 };
 
